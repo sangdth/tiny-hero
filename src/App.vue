@@ -25,7 +25,7 @@
       <br>
       <hr>
       <h3 class="is-size-3">License</h3>
-      <p>This software is licensed to you under <strong>BSD 3 + trong patents</strong> (Like React.)</p>
+      <p>This software is licensed to you under <strong>BSD 3 + strong patents</strong> (Like React.)</p>
       <p>P/S: Just to protect me from "patent trolls."</p>
       <br>
       <br>
