@@ -8,7 +8,7 @@ import App from './App';
 import router from './router';
 
 
-Vue.config.productionTip = false;
+Vue.config.productionTip = process.env.NODE_ENV === 'production';
 
 /* eslint-disable no-new */
 new Vue({
@@ -16,4 +16,4 @@ new Vue({
   router,
   template: '<App/>',
   components: { App },
-});
+})
